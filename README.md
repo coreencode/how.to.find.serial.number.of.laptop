@@ -1,0 +1,1 @@
+# how.to.find.serial.number.of.laptop
