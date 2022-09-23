@@ -1,6 +1,6 @@
 # How to Find Serial Number of Laptop?
 
-[![how to find serial number of laptop](redd.png)](https://github.com/coreencode/how.to.find.serial.number.of.laptop)
+[![how to find serial number of laptop](redd.png)](https://icncomputer.com/how-to-find-serial-number-of-laptop/)
 
 Windows doesn’t display your PC’s serial number anywhere in its interface, and neither do popular system information tools. But you can often find a PC’s serial number with a simple command, a peek in your BIOS, or on the hardware itself.
 
